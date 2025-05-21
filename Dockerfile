@@ -27,4 +27,4 @@ EXPOSE 80
 
 # Lệnh mặc định khi container khởi động.
 # 'apache2-foreground' là lệnh mặc định cho base image Apache để chạy Apache ở foreground.
-CMD ["apache2-foregroun"]
+CMD ["apache2-foreground"]
